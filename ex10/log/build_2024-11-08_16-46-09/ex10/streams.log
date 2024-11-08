@@ -1,0 +1,34 @@
+[0.733s] Invoking command in '/home/vki-3/ros2_ws/src/ex10': PYTHONPATH=/home/vki-3/ros2_ws/src/ex10/build/ex10/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vki-3/ros2_ws/src/ex10/install/ex10/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/ex10 build --build-base /home/vki-3/ros2_ws/src/ex10/build/ex10/build install --record /home/vki-3/ros2_ws/src/ex10/build/ex10/install.log --single-version-externally-managed install_data
+[0.960s] running egg_info
+[0.960s] creating build/ex10/ex10.egg-info
+[0.960s] writing build/ex10/ex10.egg-info/PKG-INFO
+[0.960s] writing dependency_links to build/ex10/ex10.egg-info/dependency_links.txt
+[0.961s] writing entry points to build/ex10/ex10.egg-info/entry_points.txt
+[0.961s] writing requirements to build/ex10/ex10.egg-info/requires.txt
+[0.961s] writing top-level names to build/ex10/ex10.egg-info/top_level.txt
+[0.961s] writing manifest file 'build/ex10/ex10.egg-info/SOURCES.txt'
+[0.962s] reading manifest file 'build/ex10/ex10.egg-info/SOURCES.txt'
+[0.962s] writing manifest file 'build/ex10/ex10.egg-info/SOURCES.txt'
+[0.963s] running build
+[0.963s] running build_py
+[0.963s] creating /home/vki-3/ros2_ws/src/ex10/build/ex10/build
+[0.963s] creating /home/vki-3/ros2_ws/src/ex10/build/ex10/build/lib
+[0.964s] creating /home/vki-3/ros2_ws/src/ex10/build/ex10/build/lib/ex10
+[0.964s] copying ex10/__init__.py -> /home/vki-3/ros2_ws/src/ex10/build/ex10/build/lib/ex10
+[0.964s] running install
+[0.964s] running install_lib
+[0.964s] creating /home/vki-3/ros2_ws/src/ex10/install/ex10/lib/python3.10/site-packages/ex10
+[0.965s] copying /home/vki-3/ros2_ws/src/ex10/build/ex10/build/lib/ex10/__init__.py -> /home/vki-3/ros2_ws/src/ex10/install/ex10/lib/python3.10/site-packages/ex10
+[0.965s] byte-compiling /home/vki-3/ros2_ws/src/ex10/install/ex10/lib/python3.10/site-packages/ex10/__init__.py to __init__.cpython-310.pyc
+[0.965s] running install_data
+[0.965s] creating /home/vki-3/ros2_ws/src/ex10/install/ex10/share/ament_index
+[0.965s] creating /home/vki-3/ros2_ws/src/ex10/install/ex10/share/ament_index/resource_index
+[0.965s] creating /home/vki-3/ros2_ws/src/ex10/install/ex10/share/ament_index/resource_index/packages
+[0.965s] copying resource/ex10 -> /home/vki-3/ros2_ws/src/ex10/install/ex10/share/ament_index/resource_index/packages
+[0.966s] copying package.xml -> /home/vki-3/ros2_ws/src/ex10/install/ex10/share/ex10
+[0.966s] running install_egg_info
+[0.967s] Copying build/ex10/ex10.egg-info to /home/vki-3/ros2_ws/src/ex10/install/ex10/lib/python3.10/site-packages/ex10-0.0.0-py3.10.egg-info
+[0.967s] running install_scripts
+[0.984s] Installing text_to_cmd_vel script to /home/vki-3/ros2_ws/src/ex10/install/ex10/lib/ex10
+[0.984s] writing list of installed files to '/home/vki-3/ros2_ws/src/ex10/build/ex10/install.log'
+[1.013s] Invoked command in '/home/vki-3/ros2_ws/src/ex10' returned '0': PYTHONPATH=/home/vki-3/ros2_ws/src/ex10/build/ex10/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vki-3/ros2_ws/src/ex10/install/ex10/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/ex10 build --build-base /home/vki-3/ros2_ws/src/ex10/build/ex10/build install --record /home/vki-3/ros2_ws/src/ex10/build/ex10/install.log --single-version-externally-managed install_data
